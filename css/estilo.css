@@ -1,14 +1,16 @@
 body{
-    background: pink;
-    color: cadetblue;
+    background: #A9D0F5;
+    text-align: center;
 }
 h1{
-    color: blueviolet;
+    color: #FA5882;
     font-size: 50px;
     letter-spacing: 5px;
+    font-family: 'Shrikhand', cursive;
 }
 p{
-    color:brown;
-    font-size: 20px;
+    color:#8A084B;
+    font-size: 30px;
     letter-spacing: 3px;
+    font-family: 'Great Vibes', cursive;
 }
