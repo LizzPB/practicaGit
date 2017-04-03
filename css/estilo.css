@@ -2,6 +2,13 @@ body{
     background: pink;
     color: cadetblue;
 }
+h1{
+    color: blueviolet;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
 p{
-    color: cornflowerblue;
+    color:brown;
+    font-size: 20px;
+    letter-spacing: 3px;
 }
